@@ -7,15 +7,15 @@ export const Footer = () => {
     <div className={styles.root}>
       <div className={styles.content}>
         <FlexHorizontal>
-          <ExternalLink href="https://github.com/olekon/justsmartcontracts">
-            GitHub
+          <ExternalLink href="https://webence.netlify.app">
+            webence
           </ExternalLink>
           <p>|</p>
           <ExternalLink href="mailto:contact@justsmartcontracts.dev">
             Email
           </ExternalLink>
           <p>|</p>
-          <p>Donations: 0x6d661B87C66D717F688d47796D7068B41D0a8730</p>
+          <p>Donations: 0xb8D4217B314192857a2Ba34F413008F4EAdfd0f0</p>
         </FlexHorizontal>
       </div>
     </div>
