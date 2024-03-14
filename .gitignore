@@ -1,0 +1,14 @@
+/public/bundle.js
+/node_modules
+/src/stubs/smarts/build
+/.vscode
+/.idea
+/tmp
+~*
+*.zip
+.DS_Store
+
+/.next
+.env.local
+
+*.tsbuildinfo

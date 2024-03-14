@@ -1,0 +1,43 @@
+{
+  "name": "justsmartcontracts",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "ts": "tsc"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^5.1.4",
+    "@types/node": "20.2.5",
+    "@types/react": "18.2.7",
+    "@types/react-dom": "18.2.4",
+    "@wagmi/core": "^1.4.12",
+    "antd": "^5.6.2",
+    "bootstrap": "^5.2.3",
+    "classnames": "^2.3.2",
+    "immer": "^10.0.2",
+    "next": "13.4.7",
+    "react": "18.2.0",
+    "react-blockies": "^1.4.1",
+    "react-dom": "18.2.0",
+    "react-error-boundary": "^4.0.11",
+    "typescript": "5.0.4",
+    "uuid": "^9.0.0",
+    "viem": "^1.21.1",
+    "wagmi": "^1.4.12",
+    "zustand": "^4.3.8"
+  },
+  "devDependencies": {
+    "@types/react-blockies": "^1.4.1",
+    "@types/uuid": "^9.0.2",
+    "abitype": "^0.8.11",
+    "eslint": "8.41.0",
+    "eslint-config-next": "13.4.4",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "sass": "^1.62.1"
+  }
+}
